@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 This system is designed to help streamline our invoicing process by automating past-due invoice reminders and providing an easy-to-use interface for managing invoice details.
 
-Key Features:
+**Key Features:**
 User Authentication with Google OAuth:
 
 Securely log in using your Google account. No need to remember another set of credentials!
